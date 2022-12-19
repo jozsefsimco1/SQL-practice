@@ -28,6 +28,7 @@ This is a test database that can be freely accessed by following the below steps
 There is a schema in the directory 'schema.png' which was followed for this mySQL practice. 
 <img src="schema.png" alt="Practice Schema">
 
+<h2>ACCESSING:</h2>
 1. Open "MySQL -> MySQL 5.7 Command Line Client" <br>
 2. Enter password: 'password' <br>
 3. Write: 'show databases' <br>
