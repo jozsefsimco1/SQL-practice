@@ -1,9 +1,9 @@
 
 
-<h2>AIM OF THIS DATABASE:</h2>
+<h2>AIM</h2>
 The aim of this database is practice only. 
 
-PREREQUISITES: 
+<h2>PREREQUISITES</h2>
 You need a MySQL database server (5.0+) and run the commands below through a user that has the following privileges:
 
 SELECT, INSERT, UPDATE, DELETE, 
@@ -12,19 +12,19 @@ INDEX, ALTER, SHOW DATABASES,
 CREATE TEMPORARY TABLES, 
 LOCK TABLES, EXECUTE, CREATE VIEW
 
-INSTALLATION: 
+<h2>INSTALLATION: </h2>
 You can find the database installation in MySQL folder.
 Installer name: Windows (x86, 32-bit), MSI Installer
 Installed from: https://dev.mysql.com/downloads/installer/
 
 
-DISCLAIMER: 
+<h2>DISCLAIMER </h2>
 To the best of my knowledge, this data is fabricated and it does not correspond to real people. Any similarity to existing people is purely coincidental.
 
-ACCESS:
+<h2>ACCESS </h2>
 This is a test database that can be freely accessed by following the below steps. 
 
-SCHEMA: 
+<h2>SCHEMA</h2>
 There is a schema in the directory 'schema.png' which was followed for this mySQL practice. 
 
 1. Open "MySQL -> MySQL 5.7 Command Line Client"
@@ -41,4 +41,4 @@ You should see this:
 | performance_schema |
 | sys                |
 +--------------------+
-4. Write: 'use database exercise'. 
+4. Write: 'use database exercise'.
