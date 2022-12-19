@@ -1,6 +1,6 @@
 
 
-<h2>AIM OF THIS DATABASE:<h2>
+<h2>AIM OF THIS DATABASE:</h2>
 The aim of this database is practice only. 
 
 PREREQUISITES: 
